@@ -1,0 +1,4 @@
+pos,agente,pts,J,V,E,D,saldo
+1,Minimax (d4),60,20,20,0,0,1012
+2,Heurístico,24,20,8,0,12,-200
+3,Aleatório,6,20,2,0,18,-812
